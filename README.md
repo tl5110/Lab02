@@ -1,2 +1,1 @@
-# Lab02
-War Card Game
+# Lab02: War Card Game
